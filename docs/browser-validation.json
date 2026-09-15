@@ -1,0 +1,51 @@
+{
+  "passed": true,
+  "checks": [
+    "six districts, 63 catalogue entries, 21 reusable actors loaded",
+    "real skill-tree click spends 25 banked salvage",
+    "weapon training saves the first mastery tier",
+    "browser profile survives reload",
+    "keyboard movement and dash alter the player position",
+    "pause freezes gameplay time",
+    "responsive menu fits viewport",
+    "real left mouse input damages a visible enemy",
+    "audio context and generated sound buffers are active",
+    "all six weapon models and effects render without exception",
+    "cycle 1 room 1 has reachable spawns",
+    "cycle 1 room 2 has reachable spawns",
+    "cycle 1 room 3 has reachable spawns",
+    "boss defeat leaves a clear extraction and descent prompt",
+    "cycle 2 room 1 has reachable spawns",
+    "cycle 2 room 2 has reachable spawns",
+    "cycle 2 room 3 has reachable spawns",
+    "boss defeat leaves a clear extraction and descent prompt",
+    "both branches and all six districts visited",
+    "two-cycle extraction banks rewards and ends the run",
+    "no browser runtime or shader errors"
+  ],
+  "errors": [],
+  "final": {
+    "status": {
+      "ready": true,
+      "frames": 2917,
+      "screen": "results",
+      "room": 5,
+      "depth": 6,
+      "enemies": 0,
+      "renderer": {
+        "frame": 46604,
+        "calls": 132,
+        "triangles": 1556418,
+        "points": 0,
+        "lines": 440
+      },
+      "drawCalls": 132,
+      "profileBank": 897
+    },
+    "frames": 2917,
+    "averageFrameMs": 4.354499999999998,
+    "geometries": 160,
+    "textures": 193,
+    "bank": 897
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "checks": [
+    "packaged assets load with Brotli compression",
+    "production build contains no mutable test bridge",
+    "invalid save leaves bank unchanged",
+    "save restore works in the packaged build",
+    "save backup preserves the restored training",
+    "release keeps rendering during real mouse and keyboard play",
+    "release supports pause, help and window resizing",
+    "no production runtime, shader or failed-resource errors"
+  ],
+  "errors": [],
+  "frameDelta": 1401,
+  "assetTransfer": [
+    {
+      "url": "http://127.0.0.1:5181/content/geometry.bin",
+      "encoding": "br"
+    }
+  ]
+}
